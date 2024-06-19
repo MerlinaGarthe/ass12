@@ -1,4 +1,4 @@
-##Project Title: NoSQL Database Analysis and Setup
+#Project Title: NoSQL Database Analysis and Setup
 #Overview
 
 This project provides a practical introduction to setting up and analyzing data with NoSQL databases. It aims to equip users with the tools and knowledge needed to manage large and unstructured data effectively. The provided Jupyter notebooks serve as a starting point for users to configure their NoSQL databases and perform basic data analysis tasks, showcasing the flexibility and power of NoSQL technologies in handling varied data types.
