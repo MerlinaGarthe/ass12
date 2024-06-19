@@ -1,5 +1,5 @@
-#Project Title: NoSQL Database Analysis and Setup
-#Overview
+Project Title: NoSQL Database Analysis and Setup
+Overview
 
 This project provides a practical introduction to setting up and analyzing data with NoSQL databases. It aims to equip users with the tools and knowledge needed to manage large and unstructured data effectively. The provided Jupyter notebooks serve as a starting point for users to configure their NoSQL databases and perform basic data analysis tasks, showcasing the flexibility and power of NoSQL technologies in handling varied data types.
 How to Use This Project
@@ -7,10 +7,6 @@ Getting Started
 
     Installation:
         Clone the repository:
-
-        bash
-
-git clone URL_OF_THIS_REPOSITORY
 
 Install the required Python packages:
 
@@ -41,8 +37,5 @@ In this project, we have committed to maintaining high standards of ethical cons
 References
 Data Sources
 
-    The data used in this project is sourced from [Name of the Data Source], which is publicly available and documented here: [URL or Citation of the Data Source].
+    The data used in this project is sourced from establishments.csv.
 
-External Code
-
-    Some functions and methods used in this project are based on external sources and have been duly credited within the code. For detailed information, refer to comments in the notebook.
